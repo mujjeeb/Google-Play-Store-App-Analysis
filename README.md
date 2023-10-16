@@ -1,4 +1,3 @@
-# Google-Play-Store-App-Analysis
 # Comprehensive Analysis of the Android App Market
 
 This Python project provides a comprehensive analysis of the Android app market by comparing thousands of apps in the Google Play Store. The project utilizes the Pandas and Plotly Express libraries to clean, visualize, and analyze data. The data used in this project was scraped from the Google Play Store by Lavanya Gupta in 2018 and is available at [this Kaggle dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps).
